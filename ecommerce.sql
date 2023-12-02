@@ -8,6 +8,3 @@ SELECT * FROM auth_user au ;
 SELECT * FROM product;
 
 
-
-
-
